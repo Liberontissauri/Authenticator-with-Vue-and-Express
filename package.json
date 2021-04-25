@@ -1,0 +1,16 @@
+{
+  "name": "authentication-vue-example",
+  "version": "1.0.0",
+  "description": "An example for an authentication app with vue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liberontissauri",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
